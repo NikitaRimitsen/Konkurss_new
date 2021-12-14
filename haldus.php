@@ -71,7 +71,7 @@ UPDATE konkurss SET kommentaar='' WHERE id=?");
         <li><a href="lisamine.php">Fotokonkursi lisamine</a></li>
         <li><a href="haldus.php">Administreerimise leht</a></li>
         <li><a href="konkurss.php">Kasutaja leht</a></li>
-        <li><a href="link">GitHub</a></li>
+        <li><a href="https://github.com/NikitaRimitsen/Konkurss_new">GitHub</a></li>
     </ul>
 </nav>
 <h1>Fotokonkurssi halduseleht</h1>
